@@ -130,6 +130,10 @@ ABOUT
   border-radius: 100px; /* rounds edges 100% = circle*/
 }
 
+#about {
+  padding: 5%;
+}
+
 
 /******************************
 PAGE: CONTACT
@@ -163,7 +167,29 @@ PAGE: CONTACT
   background-image: url('../img/twitter.png'); 
 }
 
+
+/******************************
+RESUME
+******************************/
     
+.resume {
+  padding: 5%;
+}
+
+.resume h1 {
+  color: #999;
+  text-decoration: underline;
+  font-weight: bold;
+  font-family: 'Open Sans', sans-serif;
+  margin: 15px 0;
+  font-size: 1.75em;
+  font-weight: normal;
+  line-height: 0.8em;
+}
+
+.resume h2, .resume h3 {
+  padding: 0 0 0 20px;
+}
 
 /******************************
 COLORS
