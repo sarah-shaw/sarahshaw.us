@@ -1384,7 +1384,7 @@
     <parameters xmi:id="_Mb2_SP7XEeSs3dLbDnC9yQ" elementId="org.eclipse.ui.views.showView.secondaryId" name="Secondary Id"/>
     <parameters xmi:id="_Mb2_Sf7XEeSs3dLbDnC9yQ" elementId="org.eclipse.ui.views.showView.makeFast" name="As FastView"/>
   </commands>
-  <commands xmi:id="_Mb2_Sv7XEeSs3dLbDnC9yQ" elementId="org.eclipse.cdt.ui.refactor.hide.method" commandName="Hide Memeber Function..." category="_Mbw4Tf7XEeSs3dLbDnC9yQ"/>
+  <commands xmi:id="_Mb2_Sv7XEeSs3dLbDnC9yQ" elementId="org.eclipse.cdt.ui.refactor.hide.method" commandName="Hide Member Function..." category="_Mbw4Tf7XEeSs3dLbDnC9yQ"/>
   <commands xmi:id="_Mb2_S_7XEeSs3dLbDnC9yQ" elementId="org.eclipse.egit.ui.team.Ignore" commandName="Ignore" category="_Mbw4Vv7XEeSs3dLbDnC9yQ"/>
   <commands xmi:id="_Mb2_TP7XEeSs3dLbDnC9yQ" elementId="org.eclipse.ui.navigate.showResourceByPath" commandName="Show Resource in Navigator" description="Show a resource in the Navigator given its path" category="_Mbw4R_7XEeSs3dLbDnC9yQ">
     <parameters xmi:id="_Mb2_Tf7XEeSs3dLbDnC9yQ" elementId="resourcePath" name="Resource Path" typeId="org.eclipse.ui.ide.resourcePath" optional="false"/>
